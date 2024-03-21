@@ -1,5 +1,5 @@
-# spring_one_spoon
-스프링 한 스푼의 멘토링 자료
+# JAVA_SEE
+java보자의 멘토링 자료
 ## 수업 내용
 - 0주차 intelliJ 설치 및 JDK 설치, 변수 선언
 ## 수업 자료
