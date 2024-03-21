@@ -5,7 +5,7 @@ java보자의 멘토링 자료
 ## 수업 자료
 [[코드 바로가기]](https://github.com/pss214/java_see/tree/master/mentoring/src) 작성한 코드 내용들
 
-[[PPT로 준비했습니다]](https://github.com/pss214/spring_one_spoon/tree/main/ppt) 수업 자료폴더
+[[PPT로 준비했습니다]](https://drive.google.com/drive/folders/1Q4cqS0iKLbpKqq4jKyC04oDcg4pyXlEC?usp=drive_link) 수업 자료폴더
 
 ## 참고 사이트
 [ [스프링 프로젝트] ](https://start.spring.io/) 스프링 프로젝트를 만드는 사이트
