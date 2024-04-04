@@ -2,6 +2,8 @@
 java보자의 멘토링 자료
 ## 수업 내용
 - 0주차 intelliJ 설치 및 JDK 설치, 변수 선언
+- 1주차 if문, for문
+- 2주차 클래스와 객체
 ## 수업 자료
 [[코드 바로가기]](https://github.com/pss214/java_see/tree/master/mentoring/src) 작성한 코드 내용들
 
