@@ -4,6 +4,10 @@ java보자의 멘토링 자료
 - 0주차 intelliJ 설치 및 JDK 설치, 변수 선언
 - 1주차 if문, for문
 - 2주차 클래스와 객체
+- 3주차 상속
+- 4주차 추상클래스와 인터페이스
+- 5주차 기본클래스와 컬랙션
+- 6주차 예외 처리
 ## 수업 자료
 [[코드 바로가기]](https://github.com/pss214/java_see/tree/master/mentoring/src) 작성한 코드 내용들
 
