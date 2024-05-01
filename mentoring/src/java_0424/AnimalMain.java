@@ -5,11 +5,12 @@ public class AnimalMain {
         Eagle eagle = new Eagle();
         Lion lion = new Lion();
 
-
         lion.eat();
         lion.run();
         lion.sleep();
 
-
+        eagle.eat();
+        eagle.fly();
+        eagle.sleep();
     }
 }
