@@ -1,4 +1,4 @@
-package java_0501;
+package java_0508;
 
 public class Calc implements Calculator {
 

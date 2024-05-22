@@ -1,4 +1,4 @@
-package java_0501.animal;
+package java_0508.animal;
 
 public class Lion extends Animal{
     public Lion (String name){

@@ -1,4 +1,4 @@
-package java_0501;
+package java_0508;
 
 public interface Calculator {
     double PI = 3.14;
