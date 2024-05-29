@@ -3,6 +3,7 @@ package java_0522;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Set;
 
 public class ListMain {
     public static void main(String[] args) {
@@ -35,6 +36,7 @@ public class ListMain {
         movies.add(movie1);
         movies.add(movie2);
         movies.add(movie3);
+
 
         //movies.add(book1); Movie형 리스트이기 때문에 추가 불가.
     }
