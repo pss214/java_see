@@ -4,6 +4,7 @@ import lombok.Data;
 
 import java.util.List;
 
+//Json 파싱 클래스
 @Data
 public class UltraSrtNcst {
     Response response;
